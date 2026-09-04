@@ -1,11 +1,13 @@
 about:
-  description: A powerful and secure environment variable manager for developers, featuring an intuitive Terminal User Interface (TUI) and comprehensive command-line interface.
+  description:
+  |
+    A powerful and secure environment variable manager for developers, featuring an intuitive Terminal User Interface (TUI) and comprehensive command-line interface.
   license: MIT
   homepage: 
   head: 4c3fa83
   archived: false
   latestVersion: v0.6.2
-  collectedAt: 2026-09-04T02:48:22Z
+  collectedAt: 2026-09-04T19:19:03Z
 timeline:
   created: 2025-08-26
   lastCommit: 2025-09-19
@@ -16,16 +18,24 @@ popularity:
   fork: 8
   release: 10
   contributor: 1
-  pullRequest: 1
+  pullRequest: 13
   issue: 4
 language:
   Rust: 590647
   Dockerfile: 2002
   Just: 845
-totalLine: 593494
+totalBytes: 593494
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -56,3 +66,21 @@ recent:
     closedIssue: 1
     openIssue: 3
     commit: 1
+  last720d:
+    since: 2024-09-14
+    release: 10
+    mergedPR: 12
+    openPR: 1
+    closedIssue: 1
+    openIssue: 3
+    commit: 22
+total:
+  release: 10
+  mergedPR: 12
+  openPR: 1
+  closedIssue: 1
+  openIssue: 3
+  commit: 22
+---
+---
+
