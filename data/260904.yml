@@ -7,7 +7,7 @@ about:
   head: 4c3fa83
   archived: false
   latestVersion: v0.6.2
-  collectedAt: 2026-09-04T19:19:03Z
+  collectedAt: 2026-09-04T21:13:50Z
 timeline:
   created: 2025-08-26
   lastCommit: 2025-09-19
@@ -82,5 +82,33 @@ total:
   openIssue: 3
   commit: 22
 ---
+path: /home/runner/.x-repo/github.com/mikeleppane/envx
+collectedAt: 2026-09-04T21:13:51Z
+loc:
+  Rust:
+    code: 13835
+    comments: 782
+    blanks: 2459
+    files: 34
+  Toml:
+    code: 180
+    comments: 3
+    blanks: 21
+    files: 5
+  Dockerfile:
+    code: 42
+    comments: 12
+    blanks: 12
+    files: 1
+  Markdown:
+    code: 0
+    comments: 616
+    blanks: 329
+    files: 6
+total:
+  code: 14518
+  comments: 2262
+  blanks: 3128
+  files: 46
 ---
 
