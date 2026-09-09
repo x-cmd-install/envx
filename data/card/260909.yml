@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.6.2"
   latestRelease: "v0.6.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:19:11Z
+  collectedAt: 2026-09-09T19:41:17Z
 timeline:
   created: 2025-08-26
   lastCommit: 2025-09-19
@@ -85,7 +85,7 @@ total:
   commit: 22
 ---
 path: /home/runner/.x-repo/github.com/mikeleppane/envx
-collectedAt: 2026-09-09T05:19:12Z
+collectedAt: 2026-09-09T19:41:20Z
 loc:
   Rust:
     code: 13835
