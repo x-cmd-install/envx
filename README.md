@@ -12,6 +12,17 @@ A powerful and secure environment variable manager for developers, featuring an 
 x install envx
 ```
 
+## Code insight
+
+Total: **14,057** lines of code across **46** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 13,835 | 782 | 2,459 | 34 |
+| Toml | 180 | 3 | 21 | 5 |
+| Dockerfile | 42 | 12 | 12 | 1 |
+| Markdown | 0 | 616 | 329 | 6 |
+
 ## Source
 
 - **Upstream**: <https://github.com/mikeleppane/envx>
@@ -22,7 +33,6 @@ x install envx
 - **Latest**: `v0.6.2` (2025-09-19)
 - **Last commit**: 2025-09-19
 - **Assets in release**: 5
-- **Published**: 2025-09-19T08:36:56Z
 
 ## Popularity
 
@@ -37,27 +47,29 @@ x install envx
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 1 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 2 | 0 |
 | 360d | 2025-09-15 | 1 | 1 | 1 | 1 | 4 | 1 |
+| last720d | 2024-09-20 | 10 | 12 | 1 | 1 | 4 | 22 |
 
-## Code size
+## Release assets
 
-Total: **14,057** lines of code across **46** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 13,835 | 782 | 2,459 | 34 |
-| Toml | 180 | 3 | 21 | 5 |
-| Dockerfile | 42 | 12 | 12 | 1 |
-| Markdown | 0 | 616 | 329 | 6 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [envx-linux-amd64](https://github.com/mikeleppane/envx/releases/download/v0.6.2/envx-linux-amd64) | 5.5 MiB | `native/linux/x64` |
+| [envx-linux-amd64-static](https://github.com/mikeleppane/envx/releases/download/v0.6.2/envx-linux-amd64-static) | 5.6 MiB | `native/linux/x64` |
+| [envx-linux-arm64](https://github.com/mikeleppane/envx/releases/download/v0.6.2/envx-linux-arm64) | 4.6 MiB | `native/linux/arm64` |
+| [envx-macos-amd64](https://github.com/mikeleppane/envx/releases/download/v0.6.2/envx-macos-amd64) | 4.7 MiB | `native/darwin/x64` |
+| [envx-windows-amd64.exe](https://github.com/mikeleppane/envx/releases/download/v0.6.2/envx-windows-amd64.exe) | 4.1 MiB | `native/win/x64` |
 
 ## Improve this data
 
 Install metadata for envx lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `envx` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/envx.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/envx.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:19:51Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:42:08Z._
