@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5776888,
       "digest": "sha256:414f64383ec9663f74b242ebe09c697f2cab32c1e95dac8cdf47e5360d292f42",
-      "download_count": 217,
+      "download_count": 220,
       "created_at": "2025-09-19T08:36:56Z",
       "updated_at": "2025-09-19T08:36:57Z",
       "browser_download_url": "https://github.com/mikeleppane/envx/releases/download/v0.6.2/envx-linux-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5883312,
       "digest": "sha256:562596a60929a8bfa6cc4e667f7d10f743ab5051f4fbcb4b0f819c0cff1a823b",
-      "download_count": 434,
+      "download_count": 435,
       "created_at": "2025-09-19T08:36:56Z",
       "updated_at": "2025-09-19T08:36:57Z",
       "browser_download_url": "https://github.com/mikeleppane/envx/releases/download/v0.6.2/envx-linux-amd64-static"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4859136,
       "digest": "sha256:ac50601cc695160c01a0225fa9a267a4a1ee90f34c588e14d500aa20eb84dac8",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2025-09-19T08:36:56Z",
       "updated_at": "2025-09-19T08:36:57Z",
       "browser_download_url": "https://github.com/mikeleppane/envx/releases/download/v0.6.2/envx-linux-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4931684,
       "digest": "sha256:0b3a898008dc7b24c0e009dd99d2aca29d56e8a702df1e5a9ee334a7e2a58010",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2025-09-19T08:36:56Z",
       "updated_at": "2025-09-19T08:36:57Z",
       "browser_download_url": "https://github.com/mikeleppane/envx/releases/download/v0.6.2/envx-macos-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4318208,
       "digest": "sha256:3fb7e750d2ab0231cf876d21b017b80e92211893fa7dda8e9b280417a7fdb58e",
-      "download_count": 62,
+      "download_count": 63,
       "created_at": "2025-09-19T08:36:56Z",
       "updated_at": "2025-09-19T08:36:57Z",
       "browser_download_url": "https://github.com/mikeleppane/envx/releases/download/v0.6.2/envx-windows-amd64.exe"
