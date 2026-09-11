@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5776888,
       "digest": "sha256:414f64383ec9663f74b242ebe09c697f2cab32c1e95dac8cdf47e5360d292f42",
-      "download_count": 224,
+      "download_count": 225,
       "created_at": "2025-09-19T08:36:56Z",
       "updated_at": "2025-09-19T08:36:57Z",
       "browser_download_url": "https://github.com/mikeleppane/envx/releases/download/v0.6.2/envx-linux-amd64"
