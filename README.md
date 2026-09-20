@@ -4,7 +4,7 @@
 
 A powerful and secure environment variable manager for developers, featuring an intuitive Terminal User Interface (TUI) and comprehensive command-line interface.
 
-![envx](https://repo.x-cmd.io/envx.svg)
+[![x-cmd/install — envx Code Quality Monitoring Repo Card](https://repo.x-cmd.io/envx.svg)](https://x-cmd.com/install/envx)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **14,057** lines of code across **46** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 231 · **Forks**: 8 · **Open issues**: 6 · **Contributors**: 1
+- **Stars**: 231 · **Forks**: 7 · **Open issues**: 6 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **14,057** lines of code across **46** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 360d | 2025-09-23 | 0 | 0 | 1 | 0 | 5 | 0 |
-| last720d | 2024-09-28 | 10 | 12 | 1 | 1 | 5 | 22 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 360d | 2025-09-25 | 0 | 0 | 1 | 0 | 3 | 0 |
+| last720d | 2024-09-30 | 10 | 12 | 1 | 1 | 5 | 22 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for envx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:28:15Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:44:26Z._
