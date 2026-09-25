@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5776888,
       "digest": "sha256:414f64383ec9663f74b242ebe09c697f2cab32c1e95dac8cdf47e5360d292f42",
-      "download_count": 239,
+      "download_count": 240,
       "created_at": "2025-09-19T08:36:56Z",
       "updated_at": "2025-09-19T08:36:57Z",
       "browser_download_url": "https://github.com/mikeleppane/envx/releases/download/v0.6.2/envx-linux-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4931684,
       "digest": "sha256:0b3a898008dc7b24c0e009dd99d2aca29d56e8a702df1e5a9ee334a7e2a58010",
-      "download_count": 34,
+      "download_count": 35,
       "created_at": "2025-09-19T08:36:56Z",
       "updated_at": "2025-09-19T08:36:57Z",
       "browser_download_url": "https://github.com/mikeleppane/envx/releases/download/v0.6.2/envx-macos-amd64"
