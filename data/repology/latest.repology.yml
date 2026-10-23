@@ -1,0 +1,24 @@
+- repo: aur
+  srcname: envx
+  binname: envx
+  visiblename: envx
+  version: 0.6.2
+  origversion: 0.6.2-1
+  status: unique
+  summary: A powerful and secure environment variable manager
+  maintainers:
+    - orhun@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: envx-bin
+  binname: envx-bin
+  visiblename: envx-bin
+  version: 0.6.2
+  origversion: 0.6.2-1
+  status: unique
+  summary: A powerful and secure environment variable manager
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
